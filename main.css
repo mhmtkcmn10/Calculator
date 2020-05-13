@@ -1,0 +1,342 @@
+body{
+    background:#02A9A2;
+}
+
+input{
+    cursor: pointer;
+}
+
+#hesapAlani{
+    width: 311px;
+    height: 70px;
+    margin: 20px;
+    background: #038C85;
+    border-radius: 7px;
+    border: 0px;
+    text-align: right;
+    font-size: 40px;
+    color: white;
+}
+
+/* div{
+    padding: 5px;
+    cursor: pointer;
+    background: red;
+    width: 10px;
+    margin: 5px;
+    float: left;
+} */
+
+.anagovde{
+    width: 351px;
+    height:450px;
+    background: white;
+    margin-top: 100px;
+    margin-left: 500px;
+    box-shadow:50px 50px #018C87;
+    
+    border-radius: 20px;
+}
+
+.ilksira{
+    width: 311px;
+    height: 40px;
+    margin-left: 20px;
+    background: white;
+    margin-top: 15px;
+    
+    
+    
+}
+.ikisira{
+    width: 311px;
+    height: 40px;
+    margin-left: 20px;
+    background: white;
+    margin-top: 15px;
+    
+    
+}
+
+.ucsira{
+    width: 311px;
+    height: 40px;
+    margin-left: 20px;
+    background: white;
+    margin-top: 15px;
+    
+    
+}
+
+.dortsira{
+    width: 190px;
+    height: 120px;
+    margin-left: 20px;
+    background: white;
+    margin-top: 15px;
+    float: left;
+    
+}
+
+.besira{
+    width: 50px;
+    height: 95px;
+    background: white;
+    float: left;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+.altisira{
+    float: left;
+    background: white;
+    width: 50px;
+    height: 95px;
+    margin-left: 15px;
+    margin-top:15px;
+
+}
+
+#arti{
+    width: 50px;
+    height: 95px;
+    background: #038C85;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    font-size: 25px;
+
+}
+
+#eksi{
+    width: 50px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    font-size: 30px;
+}
+#esittir{
+    width: 50px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+#onc{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    font-size: 17px;
+}
+#ce{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 18px;
+}
+#mrc{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 18px;
+    
+}
+#meksi{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 18px;
+}
+#martı{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 18px;
+}
+
+
+#sayiyedi{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+#sayisekiz{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+#sayidokuz{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+#bolu{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+#kok{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+
+
+#sayidört{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+#sayibes{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+#sayialti{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+#carpma{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+#yuzde{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 25px;
+}
+
+#sayibir{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+#sayiiki{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+#sayiuc{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+#sayisifir{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-top: 15px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+#nokta{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+#artıbolueksi{
+    width: 51px;
+    height: 40px;
+    background: #038C85;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    font-size: 20px;    
+}
